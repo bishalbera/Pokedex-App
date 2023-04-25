@@ -68,7 +68,7 @@ fun PokemonDetailScreen(
                 )
                 .shadow(10.dp, RoundedCornerShape(10.dp))
                 .clip(RoundedCornerShape(10.dp))
-                .background(MaterialTheme.colorScheme.surface)
+                .background(MaterialTheme.colorScheme.onBackground)
                 .padding(16.dp)
                 .align(Alignment.BottomCenter),
             loadingModifier = Modifier

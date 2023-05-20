@@ -1,7 +1,7 @@
 <h1 align="center">Pokedex</h1>
 
 <p align="center">  
-🗡️ Pokedex demonstrates modern Android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+🗡️ Pokedex demonstrates modern Android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture
 </p>
 </br>
 
